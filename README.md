@@ -6,7 +6,7 @@ This tutorial is used to teach others how to use a popular keylogging software k
 ---
 
 # Table of Contents
-- [History](History)
+- [History](History.md)
 - Zlogger in Action
 - Detecting a Keylogger
 - Prevention Methods
