@@ -1,2 +1,14 @@
 # IT1600-keylogging-tutorial
-This tutorial is used to teach others how to use a popular keylogging software known as Zlogger. This tutorial is my final project in my IT1600 course at the University of Missouri - Columbia.
+Author: Kyle Bennett - klbt73
+
+This tutorial is used to teach others how to use a popular keylogging software known as Zlogger. I will not only provide a tutorial on how to use the software, but I also aim to show how people can protect themselves from keyloggers. 
+
+---
+
+# Table of Contents
+- History
+- Zlogger in Action
+- Detecting a Keylogger
+- Prevention Methods
+
+---
