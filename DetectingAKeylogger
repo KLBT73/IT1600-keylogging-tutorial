@@ -1,6 +1,0 @@
-# Detecting a Keylogger
-
-
----
-
-
