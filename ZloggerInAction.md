@@ -23,3 +23,17 @@ To get our keylogger file output to us, we must provide information to the tool.
 
 ![image](https://user-images.githubusercontent.com/46944661/117171177-43d72080-ad90-11eb-8ef1-a1aafa8ed6d3.png)
 
+Another use of 'ls' shows that our output file was created successfulyl. Although Zlogger stated that the -l flag would create a Linux executable, I had to execute 'chmod +x ThisIsATest' in order to be able to run the keylogger on my machine.
+
+## Using The Keylogger File
+So we've got our output file - now we've got to run it on our machine. I highly recommend running the file on a separate machine, although I chose to run it on my current virtual machine I've created for testing purposes. To start the keylogger, all we have to do is type 'python3 [OUTPUTFILENAME]' and the keylogger starts up. 
+
+![image](https://user-images.githubusercontent.com/46944661/117227229-f54f7380-addb-11eb-91d6-03b6c354f0dc.png)
+
+In the screenshot above, I typed some things just so I can have logs to review once they're sent to my email address. After waiting a couple minutes, we can see that log files have been delivered. The next screenshot shows the first log file, which is basically a confirmation that it's running and grabs the OS of the machine it's being run on as well as the name of the machine & the user.
+
+![image](https://user-images.githubusercontent.com/46944661/117227406-5b3bfb00-addc-11eb-809b-92b7d0f43fa8.png)
+![image](https://user-images.githubusercontent.com/46944661/117227438-68f18080-addc-11eb-890c-a5cc39460d7f.png)
+![image](https://user-images.githubusercontent.com/46944661/117227499-89b9d600-addc-11eb-8afb-ca2bd2546945.png)
+
+
