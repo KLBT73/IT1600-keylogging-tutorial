@@ -18,8 +18,7 @@ The table of contents below can be used to navigate to each section. On each ind
 - [Overview](#overview)
 - [History of Keyloggers](History.md)
 - [Zlogger in Action](ZloggerInAction.md)
-- [Detecting a Keylogger](DetectingAKeylogger.md)
-- [Prevention Methods](PreventionMethods.md)
+- [Detection & Prevention](Detection&Prevention.md)
 
 ---
 
