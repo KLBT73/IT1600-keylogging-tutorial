@@ -1,0 +1,10 @@
+# Detecting a Keylogger
+
+I previously showed one way to check if a keylogger is running ona  Linux machine by the use of the 'ps' command which shows all current processes being run on the machine. On other operating systems, we can use the task manager which will also display current processes running. If we see something unfamiliar, we are able to end the process which will stop it from currently running. This is the easiest way for a user to check, but there are also antivirus programs that can be used to scan a device and determine if there's any sort of malware. 
+
+# Prevention Techniques
+Preventing can be easier than actively detecting a keylogger, so there's multiple different ways we can safeguard our device to ensure we have our device(s) as safe as possible. An easy one is to check processes running on a device. This may not help long-term, but it's a quick thing a user can easily take care of. Real time results are also displayed, allowing a user to act accordingly if necessary. 
+
+A seamless way to protect your device(s) is to make use of any and all 2-Factor Authentication (2FA) methods. This is usually done via email or a text to a phone number, or even making use of an authenticator app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en). It's an extra step, but it's more difficult for an attacker to continue even if they've gotten hold of you password. It's important to note that if you do have a keylogger on your device, the keylogger should be killed and removed from the device before entering in any other passwords or sensitive information which may include your 2FA codes. 
+
+A more advanced form of security is a keystroke encryption software. This software garbles your keystrokes so they're not human readable strings. That way if a keylogger is running on your device, they won't be able to directly read your keystrokes. The best part about keystroke encryption software is that there's a lot of options to choose from and can be customized by the user for personal preference.
