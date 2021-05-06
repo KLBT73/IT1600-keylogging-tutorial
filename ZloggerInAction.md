@@ -1,5 +1,5 @@
 # Zlogger In Action
-_Zlogger_ is a popular keylogging tool that's used primarily for learning and pentesting on personal networks. The creators have a [Github page](https://github.com/z00z/ZLogger) where we can easily download the tool. Their github page also contains a plethora of information that may not be included in this small tutorial. In this section, I will guide readers through my short  experience with Zlogger in hopes of offering something interesting or useful.
+_Zlogger_ is a popular keylogging tool that's used primarily for learning and pentesting on personal networks. The creators have a [Github page](https://github.com/z00z/ZLogger) where we can easily download the tool. Their github page also contains a plethora of information that may not be included in this small tutorial. In this section, I will guide readers through my short experience with Zlogger in hopes of offering something interesting or useful.
 
 I performed all of these commands using Kali-Linux. These commands may or may not differ slightly depending on factors like OS and python version currently installed. 
 
@@ -36,4 +36,8 @@ In the screenshot above, I typed some things just so I can have logs to review o
 ![image](https://user-images.githubusercontent.com/46944661/117227438-68f18080-addc-11eb-890c-a5cc39460d7f.png)
 ![image](https://user-images.githubusercontent.com/46944661/117227499-89b9d600-addc-11eb-8afb-ca2bd2546945.png)
 
+The remaining screenshots showcase the log files being sent every minute, as well as the logs that captured my keystrokes. 
+We can also confirm as a user of the machine that we have a keylogger running by using the 'ps' command. The next screenshot shows 'python3' running, which is the process that's using python to capture keystrokes. Since I no longer wish to have the keylogger running on my machine, I need to use the 'kill' command followed by the process ID (PID) which in this case is 22595. After killing the process, I received a confirmation message stating that the process has been terminated.
+
+![image](https://user-images.githubusercontent.com/46944661/117227699-0fd61c80-addd-11eb-9453-b72f18d9d279.png)
 
