@@ -41,3 +41,6 @@ We can also confirm as a user of the machine that we have a keylogger running by
 
 ![image](https://user-images.githubusercontent.com/46944661/117227699-0fd61c80-addd-11eb-9453-b72f18d9d279.png)
 
+## Continue to the Next Page
+- [Detection & Prevention](Detection&Prevention.md)
+
