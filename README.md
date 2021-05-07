@@ -2,6 +2,14 @@
 Author: Kyle Bennett - klbt73
 ---
 
+# Table of Contents
+- [Overview](#overview)
+- [History of Keyloggers](#history)
+- [Zlogger in Action](ZloggerInAction.md)
+- [Detection & Prevention](Detection&Prevention.md)
+
+---
+
 # Disclaimer
 >_All of this information is for educational purposes only. I do not condone the use of this tool for any malicious activities despite explaining how this tool is used to exploit both vulnerable people and machines. PLease use this tooly responisbly and on machines that you are permitted to use._
 
@@ -12,16 +20,4 @@ The target audience is anyone who possesses an interest in Information Technolog
 
 The table of contents below can be used to navigate to each section. On each individual page a navigation/go-to menu will be displayed for easy navigation. 
 
----
-
-# Table of Contents
-- [Overview](#overview)
-- [History of Keyloggers](History.md)
-- [Zlogger in Action](ZloggerInAction.md)
-- [Detection & Prevention](Detection&Prevention.md)
-
----
-
-
-
-
+# History
